@@ -1,4 +1,4 @@
-# score-counter
+# Rock paper scissor game
 
 > A Vue.js project
 
